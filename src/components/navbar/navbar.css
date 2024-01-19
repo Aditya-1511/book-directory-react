@@ -1,0 +1,12 @@
+.wrapper {
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+  max-height: 100px;
+  border-radius: 3px;
+  margin: 4px;
+}
+
+.logo {
+  padding: 5px 5px 5px 15px;
+}

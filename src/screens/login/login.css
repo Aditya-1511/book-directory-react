@@ -1,0 +1,12 @@
+.loginContainer {
+  margin: 15%;
+  border: 1px solid white;
+  background-color: bisque;
+  border-radius: 3px;
+  padding: 10px;
+  height: 300px;
+}
+
+.success {
+  color: green;
+}

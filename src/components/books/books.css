@@ -1,0 +1,33 @@
+.bookContainer {
+  height: auto;
+  display: flex;
+  flex-direction: row;
+  width: auto;
+  margin: 2%;
+  justify-content: center;
+}
+.bookContainer1 {
+  margin: 1%;
+  background-color: aliceblue;
+  padding: 10px;
+  border-radius: 4px;
+  display: flex;
+  flex-direction: column;
+  height: auto;
+  width: 250px;
+}
+.imageitem {
+  height: 150px;
+  width: 100px;
+  align-self: center;
+}
+
+.deleteIcon {
+  margin-left: 85%;
+}
+
+.button {
+  width: 50%;
+  margin-top: 1%;
+  align-self: center;
+}

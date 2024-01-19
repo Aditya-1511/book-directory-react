@@ -1,0 +1,28 @@
+.container1 {
+  height: auto;
+  display: flex;
+  flex-direction: row;
+  width: auto;
+  margin: 2%;
+}
+.container2 {
+  margin: 1%;
+  background-color: aliceblue;
+  padding: 10px;
+  border-radius: 4px;
+  display: flex;
+  flex-direction: column;
+  width: 90%;
+  height: auto;
+}
+.imageitem1 {
+  height: 150px;
+  width: 100px;
+  align-self: center;
+}
+
+.button1 {
+  width: 50%;
+  margin-top: 1%;
+  align-self: center;
+}

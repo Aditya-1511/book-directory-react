@@ -1,0 +1,16 @@
+.signupForm {
+  display: flex;
+  flex-direction: column;
+}
+
+.signupContainer {
+  margin: 4%;
+  margin-left: 40%;
+  align-items: center;
+  max-width: 450px;
+  border: 1px solid white;
+  background-color: bisque;
+  border-radius: 3px;
+  padding: 10px;
+  height: auto;
+}
